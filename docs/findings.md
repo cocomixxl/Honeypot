@@ -1,12 +1,12 @@
-# 🕵️‍♂️ Honeypot Attack Findings  
-*Last Updated: $(date +%Y-%m-%d)*  
+# 🕵Honeypot Attack Findings  
+*Last Updated: 2025-4-2*  
 
 ## 📌 Executive Summary  
 | Metric               | Count     | Top Target          |
 |----------------------|-----------|---------------------|
-| Total Attacks        | 12,742    | SSH (Port 2222)     |
-| Unique Attackers     | 1,642     | HTTP (Port 80)      |
-| Data Collected       | 14.2 GB   | Telnet (Port 23)    |
+| Total Attacks        | 880    | SSH (Port 2222)     |
+| Unique Attackers     | 72     | HTTP (Port 80)      |
+| Data Collected       | | Telnet (Port 23)    |
 
 ---
 
@@ -16,16 +16,9 @@
   1. United States (29%)  
   2. Kazahkstan (28%)  
   3. Netherlands (12%)  
-- **Notable Cluster**: Spike in scans from Netherlands (ASN 12345).  
+- **Notable Cluster**: Spike in scans from Kazahkstan (ASN 	JSC Kazakhtelecom).  
 
 ---
 
-## 🔥 Top Attack Patterns  
-### 1. SSH Bruteforce (Cowrie)  
-```json
-// Sample Kibana Query  
-{
-  "query": { "match": { "eventid": "cowrie.login" } },
-  "size": 0,
-  "aggs": { "top_passwords": { "terms": { "field": "password" } } }
-}
+##  Top Attack Patterns  
+### 1. 
