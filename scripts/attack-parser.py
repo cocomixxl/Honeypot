@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ultra-Compact T-Pot Attack Parser | Extracts brute-force attempts & payloads"""
+""" Extracts brute-force attempts & payloads"""
 
 import json
 import sys
