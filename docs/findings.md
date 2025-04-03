@@ -6,7 +6,7 @@
 |----------------------|-----------|---------------------|
 | Total Attacks        | 880    | SSH (Port 2222)     |
 | Unique Attackers     | 72     | HTTP (Port 80)      |
-| Data Collected       | | Telnet (Port 23)    |
+| Data Collected       | 13.1 kb| Telnet (Port 23)    |
 
 ---
 
