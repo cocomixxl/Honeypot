@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lsaSg4U5N68tIXGt_wPY-4" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="100" y="235" width="79.37" height="50" as="geometry" />
+          <mxGeometry x="110" y="235" width="79.37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-5" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Firewall&lt;br&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: var(--ds-font-family-code); font-size: 12.573px; text-align: start; text-wrap-mode: wrap;&quot;&gt;UFW/iptables&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="80" height="80" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-9" value="Tpot host" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Host_Pools.svg;" vertex="1" parent="1">
-          <mxGeometry x="440" y="224" width="68" height="68" as="geometry" />
+          <mxGeometry x="439.5" y="224" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="lsaSg4U5N68tIXGt_wPY-5" target="lsaSg4U5N68tIXGt_wPY-9">
           <mxGeometry relative="1" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-18" value="Cyberchef" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Analysis_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="623.5" y="391" width="63" height="48" as="geometry" />
+          <mxGeometry x="630.16" y="382" width="63" height="48" as="geometry" />
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-19" value="&lt;div&gt;Cowrie&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="740" y="380" width="65" height="70" as="geometry" />
+          <mxGeometry x="760" y="380" width="65" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-23" value="Admin&lt;br&gt;SSH" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.connected" vertex="1" parent="1">
           <mxGeometry x="623.5" y="60" width="83.33" height="60" as="geometry" />
@@ -45,13 +45,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-17" value="Elk Stack" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_management" vertex="1" parent="1">
-          <mxGeometry x="520" y="391" width="41" height="50" as="geometry" />
+          <mxGeometry x="520" y="380" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="lsaSg4U5N68tIXGt_wPY-12" target="lsaSg4U5N68tIXGt_wPY-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-12" value="Docker Network" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" vertex="1" parent="1">
-          <mxGeometry x="620" y="223" width="70" height="70" as="geometry" />
+          <mxGeometry x="630.16" y="224" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lsaSg4U5N68tIXGt_wPY-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.078;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="lsaSg4U5N68tIXGt_wPY-21" target="lsaSg4U5N68tIXGt_wPY-23">
           <mxGeometry relative="1" as="geometry" />
